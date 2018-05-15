@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "win_prob(int, double*):main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "solved[num_tokens]">
+            </PersistentString>
+            <PersistentString
+               value = "solutions[]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:main.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "win_prob(int, std::__1::vector&lt;double, std::__1::allocator&lt;double&gt; &gt;&amp;):main.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
